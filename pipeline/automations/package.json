@@ -1,0 +1,23 @@
+{
+  "name": "ai-sdr-engine-pipeline",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Multi-agent outbound SDR pipeline (Trigger.dev).",
+  "scripts": {
+    "build": "tsc --noEmit",
+    "dev": "npx trigger.dev@latest dev",
+    "deploy": "npx trigger.dev@latest deploy"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.78.0",
+    "@mendable/firecrawl-js": "^4.25.0",
+    "@neondatabase/serverless": "^1.0.2",
+    "@trigger.dev/sdk": "^4.4.4"
+  },
+  "devDependencies": {
+    "@types/node": "^22.0.0",
+    "tsx": "^4.19.0",
+    "typescript": "^5.5.0"
+  }
+}

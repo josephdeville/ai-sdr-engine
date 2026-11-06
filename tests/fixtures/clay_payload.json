@@ -1,0 +1,24 @@
+{
+  "contact": {
+    "contact_id": "c_123",
+    "first_name": "Alex",
+    "last_name": "Morgan",
+    "title": "Head of RevOps",
+    "email": "alex.morgan@sample-saas-domain.example",
+    "linkedin_url": "https://www.linkedin.com/in/alex-morgan-sample/",
+    "seniority": "director"
+  },
+  "company": {
+    "company_id": "co_456",
+    "name": "Sample SaaS Corp",
+    "domain": "https://www.sample-saas-domain.example",
+    "industry": "B2B SaaS",
+    "employee_count": 180,
+    "tech_stack": ["Salesforce", "Marketo", "Outreach"],
+    "recent_funding": "Series B, Jan 2026, $40M"
+  },
+  "campaign_id": "spring-26-revops",
+  "icp_tier": "A",
+  "fit_reason": "Series B B2B SaaS with mature RevOps team and recent SDR hiring. Matches ICP for personalization service.",
+  "enrichment_notes": "Posted on LinkedIn April 2026 about SDR research overhead."
+}
